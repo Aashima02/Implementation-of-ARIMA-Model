@@ -2,7 +2,7 @@
 
 ## AIM:
 
-Implementation of ARIMA model using python.
+Implementation of ARIMA model using python
 
 ## ALGORITHM:
 
